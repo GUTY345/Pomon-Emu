@@ -1,0 +1,10 @@
+# User settings
+xcuserdata/
+
+# Configuration files
+CodeSigning.xcconfig
+
+# macOS files
+.DS_Store
+
+Package.resolved
